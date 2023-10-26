@@ -13,7 +13,8 @@
 
         echo "5 + 10 = " . suma(5, 10) . "<br>";
         echo "3 + 7 = " . suma(3, 7) . "<br>";
-        echo "2 + 4 = " . suma(2, 4);
+        echo "2 + 4 = " . suma(2, 4) . "<br>";
+        echo "25 + 2 = " . suma(25, 2);
         ?>
     </body>
 </html>
